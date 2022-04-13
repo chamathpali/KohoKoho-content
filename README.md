@@ -9,7 +9,7 @@ The App that took Avurudu Global.
 Connecting Sri Lankans around the Globe to Celebrate Avurudu together. ❤
 
 Android :
-https://play.google.com/store/apps/details...
+https://play.google.com/store/apps/details?id=lk.surfedge.koho
 
 iOS:
 https://itunes.apple.com/lk/app/kohokoho/id1225058946
