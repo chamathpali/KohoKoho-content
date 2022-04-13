@@ -1,0 +1,307 @@
+{
+    "version": "4.0.32",
+    "app_version": "0.0.5",
+    "events": [
+
+        {
+            "time": "2021-04-12T20:00:00+05:30",
+            "timeText_en": "12th April, 2021 ",
+            "timeText_si": "2021 අප්‍රේල් 12 ",
+            "timeText_ta": "12ம் திகதி ஏப்ரல் 2021",
+            "nakath_reason_en": "This chārithra is performed in order to refresh the body and mind for the New Year",
+            "nakath_reason_si": "උදාවන නව වසර සඳහා ගත සිත පිරිසිදු කර ගැනීම මෙම චාරිත්‍රයේ අරමුණ වේ ",
+            "nakath_reason_ta": "புது வருடத்தில் உடலிலும் மனதிலும் புத்துணர்வு கொண்டுவருவதட்காக இந்த மரபு பின்பற்றப்படுகிறது ",
+            "description_en": "Bathing for the past year falls on Monday the 12th of April 2021. It is advised to bath using Nānu mixed with Woodapple leaves, while commemorating the Gods of Fate and Destiny",
+            "description_si": "අප්‍රේල් මස 12 වැනි සඳුදා දින දිවුල් පත් යුෂ මිශ්‍ර නානු ගා ස්නානය කොට ඉෂ්ට දේවතා අනුස්මරණයෙහි යෙදී වාසය මැනවි.",
+            "description_ta": "பழைய ஆண்டிற்காக நீராடுதல் ஏப்ரல் மாதம் 12ம் திகதி 2021 திங்கட்கிழமையன்று வருகிறது. அன்று பல மூலிகை இலைகளின் சாறு உள்ளடக்கிய நீரினால் குளித்து கடவுளை துதிப்பதில் நேரத்தை செலவிடுதல் வேண்டும்..",
+            "title": "Paraṇa Avurudda San̆dahā Snānaya",
+            "title_en": "Bathing for the past year",
+            "title_si": "පරණ අවුරුද්ද සඳහා ස්නානය ",
+            "title_ta": "பழைய ஆண்டிற்காக நீராடுதல்.",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/bathing.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/bathing.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br><br>",
+            "direction": ""
+        },
+
+        {
+            "time": "2021-04-13T20:09:00+05:30",
+            "timeText_en": "From 8.09pm, 13th April to 8.57am, 14th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 13 ප.ව 8:09 සිට අප්‍රේල් 14 පෙ.ව 8:57 දක්වා",
+            "timeText_ta": "ஏப்ரல் 13 இரவு 8.09 மணிக்கு தொடங்கி ஏப்ரல் 14 காலை 8.57 மணி வரை",
+            "nakath_reason_en": "This is the transit time of the sun from mīna rāshiya to mēsha rāshiya",
+            "nakath_reason_si": "මෙය සූර්යයා මීන රාශියෙන් මේෂ රාශියට සංක්‍රමණය වන කාල සීමාව වේ  ",
+            "nakath_reason_ta": "இது சூரியன் மீனா இராசியிலிருந்து மேஷ இராசிக்கு மாற எடுக்கும் நேரம்",
+            "description_en": "Nonagathaya or the time for religious rituals begins on Tuesday the 13th of April at 8.09pm and ends on Wednesday the 14th of April at 8.57am. It is recommended to cease all other work and engage in religious activities during this period.",
+            "description_si": "අප්‍රේල් මස 13 වැනි අඟහරුවාදා අපර භාග 08:09 සිට පසුදින 14 පුර්ව භාග 08:57 දක්වා  පුණ්‍ය කාලය බැවින්, අප්‍රේල් මස 13 වැනි අඟහරුවාදා අපර භාග 8:09ට ප්‍රථම සියලු වැඩ අත්හැර ආගමික වතාවත්වල යෙදීම මැනවි.",
+            "description_ta": "மத சடங்குகளுக்கான நேரம் ஏப்ரல் 13 செவ்வாய்க்கிழமை இரவு 8.09 மணிக்கு தொடங்கி ஏப்ரல் 14 புதன்கிழமை காலை 8.57 மணிக்கு முடிவடைகிறது. ஜோதிடர்கள் இந்த காலகட்டத்தில் மற்ற எல்லா வேலைகளையும் நிறுத்தி மத நடவடிக்கைகளில் ஈடுபட பரிந்துரைக்கின்றனர்.",
+            "title": "Punya kālaya",
+            "title_en": "Punya kālaya",
+            "title_si": "පුණ්‍ය කාලය ",
+            "title_ta": "புண்ணிய காலம்",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/punya.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/PunyakalayaStart.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br><br>",
+            "direction": ""
+        },
+
+        {
+            "time": "2021-04-14T02:33:00+05:30",
+            "timeText_en": "2.33 am, 14th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 14, පෙ.ව 2.33",
+            "timeText_ta": "14ம் திகதி ஏப்ரல் 2021, காலை 2.33",
+            "nakath_reason_en": "This marks the emergence of the New Year according to Sinhala and Tamil Sri Lankans",
+            "nakath_reason_si": "සිංහල හා දමිළ ශ්‍රී ලාංකිකයන්ට අනුව නව වසරක ආරම්භය මෙසේ සනිටුහන් කෙරේ ",
+            "nakath_reason_ta": "இலங்கையின் தமிழர் மற்றும் சிங்களவர்களின் புதிய வருடத்தின் ஆரம்பத்தை  இது குறிக்கிறது. ",
+            "description_en": "The New Year will dawn at 2.33 am, on Wednesday the 14th of April, 2021",
+            "description_si": " අප්‍රේල් මස 14 වැනි බදාදා පුර්ව භාග 2.33 ට සිංහල හා දමිළ අලුත් අවුරුද්ද උදාවෙයි.",
+            "description_ta": "ஏப்ரல் 14 புதன்கிழமை காலை 2.33 மணியளவில் புத்தாண்டு விடிகிறது",
+            "title": "Aluth Avurudu Udāwa",
+            "title_en": "Dawn of the New Year",
+            "title_si": "අලුත් අවුරුදු උදාව",
+            "title_ta": "புத்தாண்டின் விடியல்",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/udaawa.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/DawnoftheNewyear.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br><br>",
+            "direction": ""
+        },
+
+        {
+            "time": "2021-04-14T06:17:00+05:30",
+            "timeText_en": "6.17 am, 14th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 14, පෙ.ව 6.17 ",
+            "timeText_ta": "14ம் திகதி ஏப்ரல் 2021,  காலை 6.17 ",
+            "nakath_reason_en": "The desire of this chārithra is to retain prosperity throughout the year ",
+            "nakath_reason_si": "වර්ෂය පුරා සෞභාග්‍යය උදා වීම අරමුණු කරගනිමින් මෙම චාරිත්‍රය ඉටු කරයි ",
+            "nakath_reason_ta": "ஆண்டு முழுவதும் சௌபாக்கியம் மிக்கதாக அமைவதற்காக இந்த மரபு பின்பற்றப்படுகிறது. ",
+            "description_en": "Preparing meals for the New Year should begin at 6.17am on Wednesday the 14th of April, wearing a light green attire, lighting the hearth while facing East. Preparing Milk Rice and sweets using mung beans.",
+            "description_si": "අප්‍රේල් මස 14 වැනි බදාදා පුර්ව භාග 6.17ට ලා කොළ වර්ණ (පලාවන්) වස්ත්‍රාභරණයෙන් සැරසී, නැගෙනාහිර දිශාව බලා ලිප් බැඳ, ගිනි මොළවා එළකිරි මිශ්‍ර කිරිබතක් ද,මුං ඇට මිශ්‍රිත කැවිලි වර්ගයක්ද පිළියෙල කරගැනීම මැනවි.",
+            "description_ta": "புத்தாண்டுக்கான உணவைத் தயாரிப்பது ஏப்ரல் 14 புதன்கிழமை காலை 6.17 மணிக்கு தொடங்கி, வெளிர் பச்சை நிற உடையை அணிந்து, கிழக்கு நோக்கி எதிர்கொள்ளும் போது அடுப்பை ஏற்றி வைக்க வேண்டும். முங் பீன்ஸ் பயன்படுத்தி பாற்சோறு மற்றும் இனிப்புகளை  தயாரிக்கவும்.",
+            "title": "Āhāra Pisīma",
+            "title_en": "Preparation of meals",
+            "title_si": "ආහාර පිසීම ",
+            "title_ta": "உணவு தயாரித்தல்",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/kiri.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/Preparationofmeals.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br><br>",
+            "direction": "East"
+        },
+
+        {
+            "time": "2021-04-14T07:41:00+05:30",
+            "timeText_en": "7.41 am, 14th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 14, පෙ.ව 7.41 ",
+            "timeText_ta": "14ம் திகதி ஏப்பில் 2021, காலை 7.41 ",
+            "nakath_reason_en": "This chārithra is performed expecting prosperity, stable financial status, and success throughout the year",
+            "nakath_reason_si": "වර්ෂය පුරා සෞභාග්‍යය උදාවීම, යහපත් ආර්ථික තත්ත්වයක් පවත්වා ගැනීම හා සියලු කටයුතු සාර්ථක වීම උදෙසා මෙම චාරිත්‍ර ඉටු කරයි",
+            "nakath_reason_ta": "ஆண்டு முழுவதும் செளபாக்கியம் பிறக்க, நிலையான நிதி நிலைமை பெற மற்றும் செய்யும் அனைத்து காரியங்களும் வெற்றி பெறுவதற்காக இந்த மரபு கடைபிடிக்கப்படுகிறது.",
+            "description_en": "Commencement of work (followed by transactions and partaking of meals) should be performed at 7.41 am on Wednesday the 14th of April, facing East. It is recommended to wear a light green attire for this ritual.",
+            "description_si": "අප්‍රේල් මස 14 වැනි බදාදා පුර්ව භාග 7.41ට ලා කොළ වර්ණ (පලාවන්) වස්ත්‍රාභරණයෙන් සැරසී නැගෙනාහිර දිශාව බලා සියලු වැඩ අල්ලා ගනුදෙනු කොට ආහාර අනුභවය මැනවි.",
+            "description_ta": "ஏப்ரல் 14 புதன்கிழமை காலை 7.41 மணிக்கு கிழக்கு நோக்கி எதிர்கொள்ளும் பணியைத் தொடங்குதல் (பரிவர்த்தனைகள் மற்றும் உணவில் பங்கேற்பது) செய்யப்பட வேண்டும். இந்த சடங்கிற்கு வெளிர் பச்சை நிற உடையை அணிய பரிந்துரைக்கப்படுகிறது.",
+            "title": "Wada Allīma, Ganudenu Kirīma saha Āhāra Anubhavaya",
+            "title_en": "Commencement of work, transactions and partaking of meals",
+            "title_si": "වැඩ ඇල්ලීම, ගනුදෙනු කිරීම හා ආහාර අනුභවය ",
+            "title_ta": "வேலை துவக்கம், உணவு உட்கொள்ளல் மற்றும் பரிமாற்றல்",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/ahara.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/Commencementofwork.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br><br>",
+            "direction": "East"
+        },
+
+        {
+            "time": "2021-04-16T19:15:00+05:30",
+            "timeText_en": "16th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 16 ",
+            "timeText_ta": "16ம் திகதி ஏப்ரல் 2021 ",
+            "nakath_reason_en": "It is believed that sighting the new moon brings prosperity and wellbeing for the new year",
+            "nakath_reason_si": "නව සඳ බැලීම නව වසරේ සෞභාග්‍ය හා යහපත ගෙනදෙන  බවට විශ්වාස කෙරේ  ",
+            "nakath_reason_ta": "புதிய சந்திரனை பார்ப்பது புத்தாண்டில் செழிப்பு மற்றும் நல்வாழ்வைத் தருவதாக நம்பப்படுகிறது",
+            "description_en": "The new moon should be sighted on Friday the 16th of April for the new Lunar Year and for the new Solar Year.",
+            "description_si": "අභිනව චන්ද්‍ර වර්ෂය සඳහා සහ අභිනව සූර්ය වර්ෂය සඳහා අප්‍රේල් මස 16 වැනි සිකුරාදා දින නව සඳ බැලීම මැනවි.",
+            "description_ta": "புதிய சந்திர ஆண்டிற்கும் புதிய சூரிய ஆண்டிற்கும் ஏப்ரல் 16 வெள்ளிக்கிழமை அமாவாசையை காண வேண்டும்",
+            "title": "Nava San̆da balīma",
+            "title_en": "Sighting the New moon",
+            "title_si": "නව සඳ බැලීම",
+            "title_ta": "புதிய நிலவை பார்ப்பது",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/moon.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/moon.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
+            "direction": ""
+        },
+
+        {
+            "time": "2021-04-17T07:16:00+05:30",
+            "timeText_en": "07.16 am, 17th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 17, පෙ.ව 07.16 ",
+            "timeText_ta": "17ம் திகதி ஏப்ரல் 2021, காலை 07.16",
+            "nakath_reason_en": "Healing the body and mind in order to expect good health throughout the year is believed by performing this chārithra",
+            "nakath_reason_si": "නව වසර පුරාම යහපත් සෞඛ්‍ය තත්ත්වයක් පවත්වා ගැනීම උදෙසා මෙම චාරිත්‍ර ඉටු කරයි ",
+            "nakath_reason_ta": "மலரும் புத்தாண்டு முழுவதும் உடல் மற்றும் மனம் குணப்பட்டு   நல்ல ஆரோக்கியம் எதிர்பார்த்து இந்த மரபு கடைபிடிக்கப்படுகிறது",
+            "description_en": "Anointing of oil (applying nānu) falls at 07.16am, Saturday the 17th of April. Oil should be anointed whilst facing South, dressed in blue, while holding Nuga leaves over the head and keeping Karada leaves under the feet. It is advised to apply Nānu mixed with juice of Nuga leaves, apply oil and bath afterwards.",
+            "description_si": "අප්‍රේල් මස 17 වැනි සෙනසුරාදා දින පූර්වභාග 07.16 ට දකුණු දිශාව බලා හිසට නුග පත් ද, පයට කරඳ පත් ද තබා, නිල් පැහැති වස්ත්රාභාරණයෙන් සැරසී නුග පත් යුෂ මිශ්‍ර නානු ද, තෙල් ද ගා ස්නානය කිරීම මැනවි.",
+            "description_ta": "ஏப்ரல் 17 சனிக்கிழமை காலை 07.16 மணிக்கு எண்ணெய் அபிஷேகம். தெற்கே எதிர்கொள்ளும் போது, ​​நீல நிற உடையணிந்து, நுகா இலைகளை தலைக்கு மேல் பிடித்துக்கொண்டு, கரடா இலைகளை காலடியில் வைத்திருக்கும் போது எண்ணெய் அபிஷேகம் செய்யப்பட வேண்டும். நுகா இலைகளின் சாறுடன் கலந்த நானுவைப் பயன்படுத்தவும், எண்ணெய் மற்றும் குளியல் தடவவும் அறிவுறுத்தப்படுகிறது.",
+            "title": "Hisathel Gāma",
+            "title_en": "Anointing of oil",
+            "title_si": "හිසතෙල් ගෑම ",
+            "title_ta": "எண்ணெய் தேய்த்து குளித்தல்",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/hisathek.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/Hisathel.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
+            "direction": "South"
+        },
+
+        {
+            "time": "2021-04-19T06:39:00+05:30",
+            "timeText_en": "6.39 am, 19th April 2021",
+            "timeText_si": "2021 අප්‍රේල් 19, පෙ.ව 6.39 ",
+            "timeText_ta": "19ம் திகதி ஏப்ரல் 2021, காலை 6.39",
+            "nakath_reason_en": "In this chārithra the expectation is to succeed in one's career for the development of the country.",
+            "nakath_reason_si": "රටේ දියුණුව සඳහා තම රැකියාව සාර්ථකව සිදු කිරීම මෙම චාරිත්‍රයේ පරමාර්ථය වේ ",
+            "nakath_reason_ta": "நாட்டின் அபிவிருத்தியை முன்னிட்டு ஒவ்வொருவரினதும் வேலை வெற்றி பெறும் என்ற நம்பிக்கையுடன் இந்த மரபு பின்பற்றப்படுகிறது",
+            "description_en": "Auspicious time to leave for work for the New Year falls at 6.39am on Monday the 19th of April, dressed in white, facing the direction of the South after consuming meals including milk rice mixed with ghee.",
+            "description_si": "අප්‍රේල් මස 19 වැනි සඳුදා දින සුදු පැහැති වස්ත්‍රාභරණයෙන් සැරසී ,දී කිරි සහ ගිතෙල් මිශ්‍ර කිරිබතක් සහ කැවිලි වර්ගයක් අනුභව කර පූර්වභාග 06.39ට දකුණු දිශාව බලා පිටත්ව යෑම මැනවි.",
+            "description_ta": "புத்தாண்டுக்கான வேலைக்குச் செல்வதற்கான நல்ல நேரம் ஏப்ரல் 19 திங்கள் காலை 6.39 மணிக்கு, வெள்ளை நிற உடையணிந்து, நெய்யுடன் கலந்த பால் அரிசி உள்ளிட்ட உணவை உட்கொண்டபின் தெற்கின் திசையை எதிர்கொள்ளும்",
+            "title": "Rakī Rakshā Balā Pitath Vīma",
+            "title_en": "Leaving for Work",
+            "title_si": "රැකී රක්ෂා බලා පිටත් වීම ",
+            "title_ta": "வேலை பணிகளுக்கு செல்தல்",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/work.jpeg",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/office.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
+            "direction": "South"
+        },
+
+        {
+            "time": "2022-04-01T14:35:00+05:30",
+            "timeText_en": "Counting till, April 2022",
+            "timeText_si": "2022 අප්‍රේල්",
+            "timeText_ta": "Counting till, April 2022",
+            "nakath_reason_en": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
+            "nakath_reason_si": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
+            "nakath_reason_ta": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
+            "description_en": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
+            "description_si": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
+            "description_ta": "It was a fantastic Avurudu. Waiting to catch up in 2022.",
+            "title": "Avurudu 2022",
+            "title_en": "Avurudu 2022",
+            "title_si": "Avurudu 2022",
+            "title_ta": "Avurudu 2022",
+            "image": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/covers/udaawa.png",
+            "clock": "https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2021/clock/2022.png",
+            "footer": "<img width='30px' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/swipe.png' />(In case if the back button does not work in your device, try swiping to go back.)<br><br><img width='80%' src='https://kohokoho.s3-ap-southeast-1.amazonaws.com/v4/imgs_2020/kohofooter.png' alt=''><br><br>Warm Wishes from<br><img width='60%' src='https://s3-ap-southeast-1.amazonaws.com/kohokoho/v3/ads/surfedge.png' alt=''><br><a href='http://kohokoho.com/privacy_policy.html'>Privacy Policy</a><br>",
+            "direction": ""
+        }
+    ],
+    "notifications": [
+        {
+            "title": "KohoKoho! Turn East and follow the Chaarithraya",
+            "text": "Still looking for East. Open the KohoKoho Compass and find your directions",
+            "time": "2021-04-01T14:35:00+05:30"
+        },
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "It will be new year in 5mins time. Stay Home & Celebrate.",
+            "time": "2021-04-14T02:28:00+05:30"
+        },
+
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "1 more minute, and its New Year. Stay Home & Celebrate.",
+            "time": "2021-04-14T02:32:00+05:30"
+        },
+        
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "Hurry Up! Finish off all your work. 5 mins for Punya Kaalaya.",
+            "time": "2021-04-13T20:04:00+05:30"
+        },
+
+        {
+            "title": "Punya Kaalaya just started",
+            "text": "Punya Kaalaya just started. KohoKoho will keep you notified this Avurudu.",
+            "time": "2021-04-13T20:09:20+05:30"
+        },
+        {
+            "title": "We are in Punya Kaalaya",
+            "text": "You can always engage in religious activities while at home...",
+            "time": "2021-04-13T21:09:00+05:30"
+        },
+
+        {
+            "title": "KohoKoho! Greetings",
+            "text": "We at SurfEdge wish you and your family a very Happy New year. Stay Safe.",
+            "time": "2021-04-14T02:34:00+05:30"
+        },
+
+        {
+            "title": "We are still in Punya Kaalaya",
+            "text": "A very good morning to you. Hope you are not working at this time. Punya Kaalaya ends at 8:57am.",
+            "time": "2021-04-14T06:00:00+05:30"
+        },
+
+        {
+            "title": "Punya Kaalaya ended",
+            "text": "Punya Kaalaya just ended.",
+            "time": "2021-04-14T08:57:20+05:30"
+        },
+
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "5 mins more to start Aahara Piseema Nakatha. To mark the tradition, cooking something little would also be suffice.",
+            "time": "2021-04-14T06:12:00+05:30"
+        },
+        {
+            "title": "KohoKoho! Turn East",
+            "text": "Turn East for the Aahara Piseema Nakatha",
+            "time": "2021-04-14T06:17:10+05:30"
+        },
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "Get ready ! 1 min more for Aahara Piseema Nakatha.",
+            "time": "2021-04-14T06:16:00+05:30"
+        },
+        {
+            "title": "Have a good night's sleep.",
+            "text": "We are rising together as a nation to fight against Covid-19 and it wasn’t the type of new year we all wished for, but at least we were all together as one. Stay Safe. Sleep Tight.",
+            "time": "2021-04-14T20:00:00+05:30"
+        },
+        
+        
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "5 mins more for Aahara Anubhawaya & Wada Alleema.",
+            "time": "2021-04-14T07:36:00+05:30"
+        },
+
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "1 min more for Aahara Anubhawaya & Wada Alleema looking East.",
+            "time": "2021-04-14T07:40:00+05:30"
+        },
+
+        {
+            "title": "KohoKoho! Blessings from Hisathel Gāma",
+            "text": "Look South and prepare for Hisathel Gāma Nakatha to accept the blessings for good health in these uncertain times.",
+            "time": "2021-04-17T07:16:10+05:30"
+        },
+
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": "1 more day ahead to start your work. Let’s work from home as much as possible, otherwise let's travel safe following the Covid guidelines.",
+            "time": "2021-04-18T08:00:00+05:30"
+        },
+        
+        
+        {
+            "title": "KohoKoho! New Nakatha is coming",
+            "text": " 5 mins more for you to start your daily work looking South. Let’s work from home as much as possible, otherwise let's travel safe following the Covid guidelines.",
+            "time": "2021-04-19T06:34:00+05:30"
+        },
+        
+        {
+            "title": "Until we meet again!",
+            "text": "We hope that all your dreams would come true sooner than you expect them to be in this new year. Till next time, be healthy, be happy, help others and stay safe.:)",
+            "time": "2021-04-19T20:00:00+05:30"
+        }
+    ]
+}
